@@ -2,12 +2,21 @@
     box-sizing: border-box;
 }
 
-.navbar-brand {
+.texto-logo {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
+    font-size: 3rem;
+    color: white;
+    text-decoration: none;
 }
 
-.navbar-brand img {
+.texto-logo img {
     width: 50px;
     height: 50px;
+    margin-bottom: 5px;
+}
+
+.navbar-nav {
+    font-size: x-large;
+    font-family: 'Inter', sans-serif;
 }
